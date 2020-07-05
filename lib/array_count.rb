@@ -12,4 +12,3 @@ element.to_s.strip.empty?
 
 end
 end
-end
