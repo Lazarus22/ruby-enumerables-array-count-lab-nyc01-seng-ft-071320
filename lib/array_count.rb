@@ -11,4 +11,3 @@ def count_empty_strings(array)
   #check if element is empty
 
 end
-end
