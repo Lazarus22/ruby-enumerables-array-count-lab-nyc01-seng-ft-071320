@@ -9,3 +9,4 @@ def count_empty_strings(array)
   array.any?(&:blank?)
  end
 end
+end
