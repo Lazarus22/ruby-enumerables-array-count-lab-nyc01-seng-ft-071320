@@ -13,3 +13,4 @@ array.count do |element|
   #check if element is empty
 
 end
+end
