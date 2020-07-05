@@ -15,3 +15,4 @@ if element.is_a? String
 
 end
 end
+end
